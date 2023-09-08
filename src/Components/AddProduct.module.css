@@ -1,0 +1,7 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem;
+  padding: 1rem;
+  border: 1px solid #421717;
+}
